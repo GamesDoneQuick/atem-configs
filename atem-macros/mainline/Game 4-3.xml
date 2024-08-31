@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile majorVersion="2" minorVersion="1" product="ATEM 4 M/E Constellation HD">
+    <MacroPool>
+        <Macro index="17" name="game 4:3" description="">
+            <Op id="SuperSourceV2ArtFillInput" superSource="0" input="MediaPlayer1"/>
+            <Op id="SuperSourceV2ArtAbove" superSource="0" artAbove="False"/>
+            <Op id="SuperSourceV2BoxInput" superSource="0" boxIndex="1" input="Camera16"/>
+            <Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="4.73"/>
+            <Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="1.55"/>
+            <Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.889999"/>
+            <Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+            <Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+            <Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="4"/>
+            <Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="4"/>
+            <Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False"/>
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True"/>
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False"/>
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource"/>
+        </Macro>
+    </MacroPool>
+    <MacroControl loop="False"/>
+</Profile>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile majorVersion="2" minorVersion="1" product="ATEM 4 M/E Constellation HD">
+    <MacroPool>
+        <Macro index="2" name="PIP Hide" description="">
+            <Op id="FlyKeyRunToInfinity" mixEffectBlockIndex="0" keyIndex="1" location="CentreOfKey"/>
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True"/>
+            <Op id="MacroSleep" frames="15"/>
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False"/>
+        </Macro>
+    </MacroPool>
+    <MacroControl loop="False"/>
+</Profile>
+        
