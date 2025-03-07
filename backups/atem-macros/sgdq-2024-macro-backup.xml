@@ -2,262 +2,262 @@
 <Profile majorVersion="2" minorVersion="1" product="ATEM 4 M/E Constellation HD">
     <MacroPool>
         <Macro index="0" name="PIP In Down" description="">
-            <Op id="MediaPlayerSourceStillIndex" mediaPlayer="1" index="0"/>
-            <Op id="MediaPlayerSourceStill" mediaPlayer="1"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="True"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="KeyType" mixEffectBlockIndex="1" keyIndex="0" type="Luma"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="1" keyIndex="0" input="MediaPlayer2"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True"/>
-            <Op id="MacroSleep" frames="1"/>
-            <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="0"/>
+            <Op id="MediaPlayerSourceStillIndex" mediaPlayer="1" index="0" />
+            <Op id="MediaPlayerSourceStill" mediaPlayer="1" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="True" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="KeyType" mixEffectBlockIndex="1" keyIndex="0" type="Luma" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="1" keyIndex="0" input="MediaPlayer2" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True" />
+            <Op id="MacroSleep" frames="1" />
+            <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="0" />
         </Macro>
         <Macro index="1" name="PIP In Up" description="">
-            <Op id="MediaPlayerSourceStillIndex" mediaPlayer="1" index="0"/>
-            <Op id="MediaPlayerSourceStill" mediaPlayer="1"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="True"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="KeyType" mixEffectBlockIndex="1" keyIndex="0" type="Luma"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="1" keyIndex="0" input="MediaPlayer2"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True"/>
-            <Op id="MacroSleep" frames="1"/>
-            <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="1"/>
+            <Op id="MediaPlayerSourceStillIndex" mediaPlayer="1" index="0" />
+            <Op id="MediaPlayerSourceStill" mediaPlayer="1" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="True" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="KeyType" mixEffectBlockIndex="1" keyIndex="0" type="Luma" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="1" keyIndex="0" input="MediaPlayer2" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True" />
+            <Op id="MacroSleep" frames="1" />
+            <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="1" />
         </Macro>
         <Macro index="2" name="PIP Hide" description="">
-            <Op id="FlyKeyRunToInfinity" mixEffectBlockIndex="0" keyIndex="1" location="CentreOfKey"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True"/>
-            <Op id="MacroSleep" frames="15"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False"/>
+            <Op id="FlyKeyRunToInfinity" mixEffectBlockIndex="0" keyIndex="1" location="CentreOfKey" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="True" />
+            <Op id="MacroSleep" frames="15" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False" />
         </Macro>
         <Macro index="3" name="PIP Out" description="">
-            <Op id="FlyKeyRunToFull" mixEffectBlockIndex="0" keyIndex="1"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False"/>
-            <Op id="MacroSleep" frames="15"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False"/>
+            <Op id="FlyKeyRunToFull" mixEffectBlockIndex="0" keyIndex="1" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False" />
+            <Op id="MacroSleep" frames="15" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False" />
         </Macro>
 
         <Macro index="6" name="ME3 PIP - Photos" description="">
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="2" source="Key3,Background"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="2" keyIndex="2" input="Camera11"/>
-            <Op id="KeyCutInput" mixEffectBlockIndex="2" keyIndex="2" input="Camera12"/>
-            <Op id="KeyType" mixEffectBlockIndex="2" keyIndex="2" type="Luma"/>
-            <Op id="KeyMaskEnable" mixEffectBlockIndex="2" keyIndex="2" enable="False"/>
-            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="2" keyIndex="2" preMultiply="True"/>
-            <Op id="KeyFlyEnable" mixEffectBlockIndex="2" keyIndex="2" enable="False"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="2" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="2" keyIndex="2" enabled="False"/>
-            <Op id="PreviewInput" mixEffectBlockIndex="2" input="MediaPlayer1"/>
-            <Op id="AutoTransition" mixEffectBlockIndex="2"/>
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False" />
+            <Op id="TransitionSource" mixEffectBlockIndex="2" source="Key3,Background" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="2" keyIndex="2" input="Camera11" />
+            <Op id="KeyCutInput" mixEffectBlockIndex="2" keyIndex="2" input="Camera12" />
+            <Op id="KeyType" mixEffectBlockIndex="2" keyIndex="2" type="Luma" />
+            <Op id="KeyMaskEnable" mixEffectBlockIndex="2" keyIndex="2" enable="False" />
+            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="2" keyIndex="2" preMultiply="True" />
+            <Op id="KeyFlyEnable" mixEffectBlockIndex="2" keyIndex="2" enable="False" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="2" keyIndex="2" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="2" keyIndex="2" enabled="False" />
+            <Op id="PreviewInput" mixEffectBlockIndex="2" input="MediaPlayer1" />
+            <Op id="AutoTransition" mixEffectBlockIndex="2" />
         </Macro>
         <Macro index="7" name="ME3 PIP - SS1" description="">
 
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False" />
         </Macro>
         <Macro index="8" name="ME3 PIP - SS2" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource2"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource2" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False" />
         </Macro>
         <Macro index="9" name="Fix Stuff" description="">
-            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="2" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="3" onAir="False"/>
-            <Op id="ProgramInput" mixEffectBlockIndex="0" input="ME2Program"/>
-            <Op id="PreviewInput" mixEffectBlockIndex="0" input="ME4Preview"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="1" source="Background"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="1" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="2" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="3" onAir="False"/>
-            <Op id="ProgramInput" mixEffectBlockIndex="1" input="ME4Program"/>
-            <Op id="PreviewInput" mixEffectBlockIndex="1" input="ME4Preview"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="2" source="Background"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="0" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="1" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="3" onAir="False"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="2" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="2" keyIndex="0" enabled="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="3" source="Background"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="0" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="1" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="2" onAir="False"/>
-            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="3" onAir="False"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="3" keyIndex="0" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="3" keyIndex="0" enabled="False"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="-3.75"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="-10"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="0.340881"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="0.340881"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="0"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="5.5"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="-10"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="0.340881"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="0.340881"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="1"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="0"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="0"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="1"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="1"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="-3.75"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="-10"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="0.340881"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="0.340881"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="0" keyFrameIndex="0"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1"/>
-            <Op id="DVEKeyMaskEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False"/>
-            <Op id="DVEKeyShadowEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False"/>
-            <Op id="DVEKeyBorderEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False"/>
-            <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="0" rate="15"/>
-            <Op id="DVEKeyMaskEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False"/>
-            <Op id="DVEKeyShadowEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False"/>
-            <Op id="DVEKeyBorderEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False"/>
-            <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="1" rate="15"/>
-            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="0" type="DVE"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="0" input="ME3Program"/>
-            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program"/>
-            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="1" keyIndex="0" preMultiply="False"/>
-            <Op id="LumaKeyClip" mixEffectBlockIndex="1" keyIndex="0" clip="0.5"/>
-            <Op id="LumaKeyGain" mixEffectBlockIndex="1" keyIndex="0" gain="0.699997"/>
-            <Op id="KeyFlyEnable" mixEffectBlockIndex="1" keyIndex="0" enable="False"/>
-            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="2" keyIndex="0" preMultiply="False"/>
-            <Op id="LumaKeyClip" mixEffectBlockIndex="2" keyIndex="0" clip="0.5"/>
-            <Op id="LumaKeyGain" mixEffectBlockIndex="2" keyIndex="0" gain="0.699997"/>
-            <Op id="KeyFlyEnable" mixEffectBlockIndex="2" keyIndex="0" enable="False"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="0" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="1" input="Camera32"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="2" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="3" input="Camera31"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="4" input="CleanFeed1"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="10" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="11" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="12" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="13" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="14" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="15" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="16" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="17" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="18" input="Camera40"/>
-            <Op id="AuxiliaryInput" auxiliaryIndex="23" input="CleanFeed1"/>
-            <Op id="DownstreamKeyOnAir" keyIndex="0" onAir="True"/>
-            <Op id="DownstreamKeyFillInput" keyIndex="0" input="Camera9"/>
-            <Op id="DownstreamKeyCutInput" keyIndex="0" input="Camera10"/>
-            <Op id="DownstreamKeyMaskEnable" keyIndex="0" enable="False"/>
-            <Op id="DownstreamKeyPreMultiply" keyIndex="0" preMultiply="True"/>
-            <Op id="DownstreamKeyOnAir" keyIndex="1" onAir="False"/>
-            <Op id="DownstreamKeyOnAir" keyIndex="2" onAir="False"/>
-            <Op id="DownstreamKeyOnAir" keyIndex="3" onAir="False"/>
-            <Op id="DownstreamKeyTie" keyIndex="0" tie="False"/>
-            <Op id="DownstreamKeyTie" keyIndex="1" tie="False"/>
-            <Op id="DownstreamKeyTie" keyIndex="2" tie="False"/>
-            <Op id="DownstreamKeyTie" keyIndex="3" tie="False"/>
-            <Op id="TransitionStyle" mixEffectBlockIndex="2" style="Mix"/>
-            <Op id="TransitionMixRate" mixEffectBlockIndex="2" rate="12"/>
+            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="1" onAir="True" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="2" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="3" onAir="False" />
+            <Op id="ProgramInput" mixEffectBlockIndex="0" input="ME2Program" />
+            <Op id="PreviewInput" mixEffectBlockIndex="0" input="ME4Preview" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+            <Op id="TransitionSource" mixEffectBlockIndex="1" source="Background" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="0" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="1" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="2" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="1" keyIndex="3" onAir="False" />
+            <Op id="ProgramInput" mixEffectBlockIndex="1" input="ME4Program" />
+            <Op id="PreviewInput" mixEffectBlockIndex="1" input="ME4Preview" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="1" keyIndex="0" enabled="False" />
+            <Op id="TransitionSource" mixEffectBlockIndex="2" source="Background" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="0" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="1" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="2" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="2" keyIndex="3" onAir="False" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="2" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="2" keyIndex="0" enabled="False" />
+            <Op id="TransitionSource" mixEffectBlockIndex="3" source="Background" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="0" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="1" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="2" onAir="False" />
+            <Op id="KeyOnAir" mixEffectBlockIndex="3" keyIndex="3" onAir="False" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="3" keyIndex="0" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="3" keyIndex="0" enabled="False" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="-3.75" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="-10" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="0.340881" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="0.340881" />
+            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="0" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="5.5" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="-10" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="0.340881" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="0.340881" />
+            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="1" keyFrameIndex="1" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="1" yPosition="0" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="1" xPosition="0" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="1" xSize="1" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="1" ySize="1" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="-3.75" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="-10" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="0.340881" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="0.340881" />
+            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="0" keyFrameIndex="0" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="0" yPosition="0" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="0" xPosition="0" />
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="0" xSize="1" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="0" ySize="1" />
+            <Op id="DVEKeyMaskEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False" />
+            <Op id="DVEKeyShadowEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False" />
+            <Op id="DVEKeyBorderEnable" mixEffectBlockIndex="0" keyIndex="0" enable="False" />
+            <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="0" rate="15" />
+            <Op id="DVEKeyMaskEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False" />
+            <Op id="DVEKeyShadowEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False" />
+            <Op id="DVEKeyBorderEnable" mixEffectBlockIndex="0" keyIndex="1" enable="False" />
+            <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="1" rate="15" />
+            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="0" type="DVE" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="0" input="ME3Program" />
+            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="1" type="DVE" />
+            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="1" input="ME2Program" />
+            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="1" keyIndex="0" preMultiply="False" />
+            <Op id="LumaKeyClip" mixEffectBlockIndex="1" keyIndex="0" clip="0.5" />
+            <Op id="LumaKeyGain" mixEffectBlockIndex="1" keyIndex="0" gain="0.699997" />
+            <Op id="KeyFlyEnable" mixEffectBlockIndex="1" keyIndex="0" enable="False" />
+            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="2" keyIndex="0" preMultiply="False" />
+            <Op id="LumaKeyClip" mixEffectBlockIndex="2" keyIndex="0" clip="0.5" />
+            <Op id="LumaKeyGain" mixEffectBlockIndex="2" keyIndex="0" gain="0.699997" />
+            <Op id="KeyFlyEnable" mixEffectBlockIndex="2" keyIndex="0" enable="False" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="0" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="1" input="Camera32" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="2" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="3" input="Camera31" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="4" input="CleanFeed1" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="10" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="11" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="12" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="13" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="14" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="15" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="16" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="17" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="18" input="Camera40" />
+            <Op id="AuxiliaryInput" auxiliaryIndex="23" input="CleanFeed1" />
+            <Op id="DownstreamKeyOnAir" keyIndex="0" onAir="True" />
+            <Op id="DownstreamKeyFillInput" keyIndex="0" input="Camera9" />
+            <Op id="DownstreamKeyCutInput" keyIndex="0" input="Camera10" />
+            <Op id="DownstreamKeyMaskEnable" keyIndex="0" enable="False" />
+            <Op id="DownstreamKeyPreMultiply" keyIndex="0" preMultiply="True" />
+            <Op id="DownstreamKeyOnAir" keyIndex="1" onAir="False" />
+            <Op id="DownstreamKeyOnAir" keyIndex="2" onAir="False" />
+            <Op id="DownstreamKeyOnAir" keyIndex="3" onAir="False" />
+            <Op id="DownstreamKeyTie" keyIndex="0" tie="False" />
+            <Op id="DownstreamKeyTie" keyIndex="1" tie="False" />
+            <Op id="DownstreamKeyTie" keyIndex="2" tie="False" />
+            <Op id="DownstreamKeyTie" keyIndex="3" tie="False" />
+            <Op id="TransitionStyle" mixEffectBlockIndex="2" style="Mix" />
+            <Op id="TransitionMixRate" mixEffectBlockIndex="2" rate="12" />
         </Macro>
         <Macro index="10" name="ME3 PIP - Cam 1" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera1"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera1" />
         </Macro>
         <Macro index="11" name="ME3 PIP - Cam 2" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera2"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera2" />
         </Macro>
         <Macro index="12" name="ME3 PIP - Cam 3" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera3"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera3" />
         </Macro>
         <Macro index="13" name="ME3 PIP - Cam 4" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera4"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera4" />
         </Macro>
         <Macro index="14" name="ME3 PIP - Cam 5" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera5"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera5" />
         </Macro>
         <Macro index="15" name="ME3 PIP - OBS" description="">
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera38"/>
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="Camera38" />
         </Macro>
         <Macro index="16" name="HyperDeck Prep" description="">
-            <Op id="SuperSourceV2ArtFillInput" superSource="1" input="MediaPlayer1"/>
-            <Op id="SuperSourceV2ArtAbove" superSource="1" artAbove="False"/>
-            <Op id="SuperSourceV2BoxInput" superSource="1" boxIndex="1" input="Camera39"/>
-            <Op id="SuperSourceV2BoxXPosition" superSource="1" boxIndex="1" xPosition="0"/>
-            <Op id="SuperSourceV2BoxYPosition" superSource="1" boxIndex="1" yPosition="0.860001"/>
-            <Op id="SuperSourceV2BoxSize" superSource="1" boxIndex="1" size="0.904999"/>
-            <Op id="SuperSourceV2BoxMaskTop" superSource="1" boxIndex="1" top="0"/>
-            <Op id="SuperSourceV2BoxMaskBottom" superSource="1" boxIndex="1" bottom="0"/>
-            <Op id="SuperSourceV2BoxMaskLeft" superSource="1" boxIndex="1" left="0"/>
-            <Op id="SuperSourceV2BoxMaskRight" superSource="1" boxIndex="1" right="0"/>
-            <Op id="SuperSourceV2BoxMaskEnable" superSource="1" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="0" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="2" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="3" enable="False"/>
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource2"/>
+            <Op id="SuperSourceV2ArtFillInput" superSource="1" input="MediaPlayer1" />
+            <Op id="SuperSourceV2ArtAbove" superSource="1" artAbove="False" />
+            <Op id="SuperSourceV2BoxInput" superSource="1" boxIndex="1" input="Camera39" />
+            <Op id="SuperSourceV2BoxXPosition" superSource="1" boxIndex="1" xPosition="0" />
+            <Op id="SuperSourceV2BoxYPosition" superSource="1" boxIndex="1" yPosition="0.860001" />
+            <Op id="SuperSourceV2BoxSize" superSource="1" boxIndex="1" size="0.904999" />
+            <Op id="SuperSourceV2BoxMaskTop" superSource="1" boxIndex="1" top="0" />
+            <Op id="SuperSourceV2BoxMaskBottom" superSource="1" boxIndex="1" bottom="0" />
+            <Op id="SuperSourceV2BoxMaskLeft" superSource="1" boxIndex="1" left="0" />
+            <Op id="SuperSourceV2BoxMaskRight" superSource="1" boxIndex="1" right="0" />
+            <Op id="SuperSourceV2BoxMaskEnable" superSource="1" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="0" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="2" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="1" boxIndex="3" enable="False" />
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource2" />
         </Macro>
         <Macro index="17" name="game 4:3" description="">
-            <Op id="SuperSourceV2ArtFillInput" superSource="0" input="MediaPlayer1"/>
-            <Op id="SuperSourceV2ArtAbove" superSource="0" artAbove="False"/>
-            <Op id="SuperSourceV2BoxInput" superSource="0" boxIndex="1" input="Camera16"/>
-            <Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="4.73"/>
-            <Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="1.55"/>
-            <Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.889999"/>
-            <Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
-            <Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
-            <Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="4"/>
-            <Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="4"/>
-            <Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False"/>
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource"/>
+            <Op id="SuperSourceV2ArtFillInput" superSource="0" input="MediaPlayer1" />
+            <Op id="SuperSourceV2ArtAbove" superSource="0" artAbove="False" />
+            <Op id="SuperSourceV2BoxInput" superSource="0" boxIndex="1" input="Camera16" />
+            <Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="4.73" />
+            <Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="1.55" />
+            <Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.889999" />
+            <Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0" />
+            <Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0" />
+            <Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="4" />
+            <Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="4" />
+            <Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource" />
         </Macro>
         <Macro index="18" name="game 16:9" description="">
-            <Op id="SuperSourceV2ArtFillInput" superSource="0" input="MediaPlayer1"/>
-            <Op id="SuperSourceV2ArtAbove" superSource="0" artAbove="False"/>
-            <Op id="SuperSourceV2BoxInput" superSource="0" boxIndex="1" input="Camera16"/>
-            <Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="0"/>
-            <Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.860001"/>
-            <Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.904999"/>
-            <Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
-            <Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
-            <Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="0"/>
-            <Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="0"/>
-            <Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False"/>
-            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False"/>
-            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource"/>
+            <Op id="SuperSourceV2ArtFillInput" superSource="0" input="MediaPlayer1" />
+            <Op id="SuperSourceV2ArtAbove" superSource="0" artAbove="False" />
+            <Op id="SuperSourceV2BoxInput" superSource="0" boxIndex="1" input="Camera16" />
+            <Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="0" />
+            <Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.860001" />
+            <Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.904999" />
+            <Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0" />
+            <Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0" />
+            <Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="0" />
+            <Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="0" />
+            <Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+            <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+            <Op id="ProgramInput" mixEffectBlockIndex="2" input="SuperSource" />
         </Macro>
     </MacroPool>
-    <MacroControl loop="False"/>
+    <MacroControl loop="False" />
 </Profile>

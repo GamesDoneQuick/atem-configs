@@ -1,12 +1,12 @@
 <Macro index="3" name="ToggleEyeLogo" description="">
-    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key4"/>
-    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False"/>
-    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False"/>
-    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False"/>
-    <Op id="AutoTransition" mixEffectBlockIndex="0"/>
-    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False"/>
-    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False"/>
-    <Op id="MacroSleep" frames="1"/>
-    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background"/>
+    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key4" />
+    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="0" enabled="False" />
+    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False" />
+    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False" />
+    <Op id="AutoTransition" mixEffectBlockIndex="0" />
+    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False" />
+    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="3" enabled="False" />
+    <Op id="MacroSleep" frames="1" />
+    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background" />
 </Macro>
