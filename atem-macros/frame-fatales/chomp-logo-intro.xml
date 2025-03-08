@@ -2,20 +2,20 @@
 <Profile majorVersion="2" minorVersion="1" product="ATEM 4 M/E Constellation HD">
     <MacroPool>
         <Macro index="6" name="ChompLogoIntro" description="">
-    <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="2" xSize="0.7"/>
-    <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="2" ySize="0.7"/>
-    <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="2" xPosition="0.00000"/>
-    <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="2" yPosition="0.00000"/>
-    <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="2" rate="30"/>
-    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3"/>
-    <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-    <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-    <Op id="AutoTransition" mixEffectBlockIndex="0"/>
-    <Op id="MacroSleep" frames="1"/>
-    <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background"/>
-    <Op id="MacroSleep" frames="60"/>
-    <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="1"/>
-</Macro>
+            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="2" xSize="0.7" />
+            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="2" ySize="0.7" />
+            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="2" xPosition="0.00000" />
+            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="2" yPosition="0.00000" />
+            <Op id="DVEAndFlyKeyRate" mixEffectBlockIndex="0" keyIndex="2" rate="30" />
+            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3" />
+            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False" />
+            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False" />
+            <Op id="AutoTransition" mixEffectBlockIndex="0" />
+            <Op id="MacroSleep" frames="1" />
+            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Background" />
+            <Op id="MacroSleep" frames="60" />
+            <Op id="FlyKeyRunToKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="1" />
+        </Macro>
     </MacroPool>
-    <MacroControl loop="False"/>
+    <MacroControl loop="False" />
 </Profile>
