@@ -2775,7 +2775,6 @@
             <Op id="LumaKeyClip" mixEffectBlockIndex="2" keyIndex="0" clip="0.5"/>
             <Op id="LumaKeyGain" mixEffectBlockIndex="2" keyIndex="0" gain="0.699997"/>
             <Op id="KeyFlyEnable" mixEffectBlockIndex="2" keyIndex="0" enable="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3"/>
             <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="2" input="MediaPlayer2"/>
             <Op id="KeyCutInput" mixEffectBlockIndex="0" keyIndex="2" input="MediaPlayer2Key"/>
             <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="0" keyIndex="2" preMultiply="True"/>
@@ -2856,44 +2855,6 @@
             <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False"/>
             <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True"/>
             <Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True"/>
-        </Macro>
-        <Macro index="30" name="" description="">
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="3" keyIndex="2" enabled="False"/>
-            <Op id="KeyFillInput" mixEffectBlockIndex="0" keyIndex="2" input="MediaPlayer3"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="0"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="2" yPosition="0.0639954"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="2" ySize="1.153"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="2" xSize="1.153"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="2" xPosition="0.276001"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="1"/>
-            <Op id="KeyMaskEnable" mixEffectBlockIndex="0" keyIndex="2" enable="False"/>
-            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="0" keyIndex="2" preMultiply="True"/>
-            <Op id="KeyFlyEnable" mixEffectBlockIndex="0" keyIndex="2" enable="False"/>
-            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3"/>
-            <Op id="KeyType" mixEffectBlockIndex="0" keyIndex="2" type="Luma"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-        </Macro>
-        <Macro index="31" name="" description="">
-            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3"/>
-            <Op id="KeyCutInput" mixEffectBlockIndex="0" keyIndex="2" input="MediaPlayer2Key"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-        </Macro>
-        <Macro index="32" name="" description="">
-            <Op id="TransitionSource" mixEffectBlockIndex="0" source="Key3"/>
-            <Op id="LumaKeyPreMultiply" mixEffectBlockIndex="0" keyIndex="2" preMultiply="True"/>
-            <Op id="KeyMaskEnable" mixEffectBlockIndex="0" keyIndex="2" enable="False"/>
-            <Op id="KeyFlyEnable" mixEffectBlockIndex="0" keyIndex="2" enable="True"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="0"/>
-            <Op id="DVEAndFlyKeyYPosition" mixEffectBlockIndex="0" keyIndex="2" yPosition="0.0709991"/>
-            <Op id="DVEAndFlyKeyXPosition" mixEffectBlockIndex="0" keyIndex="2" xPosition="0.309006"/>
-            <Op id="DVEAndFlyKeyYSize" mixEffectBlockIndex="0" keyIndex="2" ySize="1.16299"/>
-            <Op id="DVEAndFlyKeyXSize" mixEffectBlockIndex="0" keyIndex="2" xSize="1.16299"/>
-            <Op id="FlyKeySetKeyFrame" mixEffectBlockIndex="0" keyIndex="2" keyFrameIndex="1"/>
-            <Op id="AdvancedChromaKeySamplingModeEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
-            <Op id="AdvancedChromaKeyPreviewEnabled" mixEffectBlockIndex="0" keyIndex="2" enabled="False"/>
         </Macro>
         <Macro index="70" name="PIP_NOP" description=""/>
         <Macro index="71" name="PIP_KEY_1_OFF_DELAY" description="">
